@@ -1,0 +1,15 @@
+HTTP/1.0 200 OK
+Server: SimpleHTTP/0.6 Python/2.7.12+
+Date: Sun, 25 Mar 2018 05:27:34 GMT
+Content-type: text/plain
+Content-Length: 47
+Last-Modified: Wed, 14 Feb 2018 18:03:45 GMT
+Cache-control: must-revalidate
+
+Unchanged File1
+Hello 
+
+How r u
+
+changed file
+
